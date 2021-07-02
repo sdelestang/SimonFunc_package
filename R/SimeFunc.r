@@ -2,15 +2,6 @@
 #' @import magrittr
 #' @import gplots
 
-
-#' Set the library
-#'
-#' This sets the library to this link 
-#' @param there is none
-#' @return Does not reurn jack
-#' @examples 
-#' Dont need
-#' @export
 .libPaths('C:\\Users\\snd\\OneDrive - Department of Primary Industries and Regional Development\\Maths and Stats\\R.Librarys')
 
 #' Pulls out the day as a number
