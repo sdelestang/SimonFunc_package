@@ -1,0 +1,5 @@
+Package: SimeFunc
+Version: 1.1-0
+Title: Useful functions that I use
+Author: Simon de Lestang 
+RoxygenNote: 7.1.1
