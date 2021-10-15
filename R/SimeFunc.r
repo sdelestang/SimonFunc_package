@@ -71,3 +71,22 @@ toXL <- function(x, rnames=FALSE){
   write.table(x, "clipboard", sep="\t", row.names = rnames)
 }
 
+#' directoryLink data in SimeFunc
+#'
+#' This is the link used in Direct so it can be changed by different uses.
+#'
+#' @docType data
+#'
+#' @usage data(directoryLink)
+#'
+#' @format An object of class \code{"cross"}; see \code{\link[qtl]{read.cross}}.
+#'
+#' @keywords datasets
+#'
+#' @references There aint one
+#'
+#' @source \href{https://phenome.jax.org/projects/Moore1b}{QTL Archive}
+#'
+#' @examples
+"directoryLink"
+
